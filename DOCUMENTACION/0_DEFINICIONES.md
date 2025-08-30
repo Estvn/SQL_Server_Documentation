@@ -1,0 +1,10 @@
+
+- DATO
+- INFORMACIÓN
+- BASE DE DATOS
+- SQL
+- DBMS
+- SQL SERVER
+
+- SSMS
+- 
